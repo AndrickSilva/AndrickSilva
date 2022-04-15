@@ -1,5 +1,5 @@
 ### Hi there, I'm Andrick Silva! 👋
-
+---
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🌱 I’m currently learning Everything 😉 
@@ -9,3 +9,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love ⚽
 
+GitHub stats
+---
+![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrickSilva&show_icons=true&theme=radical)
+
+Most used Laguages
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva)](https://github.com/AndrickSilva/github-readme-stats)
