@@ -32,5 +32,5 @@ Frequently Used Laguages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva&layout=compact&theme=radical)](https://github.com/AndrickSilva/github-readme-stats)
 
 ---
-### To Be Honest I Just Got Started With Github And I Love It 🔥
+### To Be Honest I Just Started With Github And I Love It 🔥
 
