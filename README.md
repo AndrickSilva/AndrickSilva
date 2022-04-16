@@ -9,10 +9,13 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love ⚽
 
-GitHub stats
+GitHub Stats
 ---
 ![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrickSilva&show_icons=true&theme=radical)
 
-Most used Laguages
+Frequently Used Laguages
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva)](https://github.com/AndrickSilva/github-readme-stats)
+
+---
+### To Be Honest I Just Got Started With Github And I Love It 🔥
