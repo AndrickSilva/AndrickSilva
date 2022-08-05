@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with 🤔
 - 💬 Ask me about Anything 👓 
 - 📫 How to reach me: silva.andrick2001@gmail.com
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love ⚽
 
 Laguages and Tools
