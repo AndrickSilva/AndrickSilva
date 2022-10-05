@@ -35,6 +35,10 @@ GitHub Stats
 Frequently Used Laguages
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva&layout=compact&theme=radical)](https://github.com/AndrickSilva/github-readme-stats)
+
+Badges
+---
+[![@ajs's Holopin board](https://holopin.io/api/user/board?user=ajs)](https://holopin.io/@ajs)
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=595593&style=flat" alt="AndrickSilva" />
   
