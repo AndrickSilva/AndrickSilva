@@ -38,11 +38,11 @@ Laguages and Tools
 
 GitHub Stats
 ---
-![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrickSilva&show_icons=true&theme=radical)
+![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrickSilva&show_icons=true&theme=github_dark)
 
 Frequently Used Laguages
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva&layout=compact&theme=radical)](https://github.com/AndrickSilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva&layout=compact&theme=github_dark)](https://github.com/AndrickSilva/github-readme-stats)
 
 Badges
 ---
