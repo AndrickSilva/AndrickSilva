@@ -1,5 +1,11 @@
-### Hi there, I'm Andrick Silva! 👋
----
+<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Andrick+Silva....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=595593&style=flat" alt="AndrickSilva" />
+</h1>
+
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🌱 I’m currently learning Everything 😉 
@@ -8,6 +14,8 @@
 - 📫 How to reach me: silva.andrick2001@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love ⚽
+
+<br>
 
 Laguages and Tools
 ---
@@ -40,7 +48,6 @@ Badges
 ---
 [![@ajs's Holopin board](https://holopin.io/api/user/board?user=ajs)](https://holopin.io/@ajs)
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=595593&style=flat" alt="AndrickSilva" />
   
-### To Be Honest I Just Started With Github And I Love It 🔥
+### ~AJ
 
