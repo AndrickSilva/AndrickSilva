@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Andrick+Silva....;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=595593&style=flat" alt="AndrickSilva" />
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=4C8EDA&style=flat" alt="AndrickSilva" />
 </h1>
 
 <!-- - 🔭 I’m currently working on ... -->
