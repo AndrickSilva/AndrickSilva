@@ -34,7 +34,7 @@ Laguages and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" **alt="angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" **alt="materialui" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="materialui" width="40" height="40"/>&nbsp;
-  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="React" **alt="materialui" width="40" height="40"/>&nbsp;
 </div>
 
 GitHub Stats
