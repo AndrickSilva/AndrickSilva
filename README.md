@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Andrick+Silva....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Andrick+Silva....;Nice+to+meet+you!&center=true&size=30">
   </a>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=4C8EDA&style=flat" alt="AndrickSilva" />
 </div>
