@@ -1,26 +1,14 @@
 <br>
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Andrick+Silva....;Nice+to+meet+you!&center=true&size=30">
   </a>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=4C8EDA&style=flat" alt="AndrickSilva" />
-</h1>
-
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🌱 I’m currently learning Everything 😉 
-- 🤔 I’m looking for help with 🤔
-- 💬 Ask me about Anything 👓 
-- 📫 How to reach me: silva.andrick2001@gmail.com
-- ⚡ Fun fact: I love ⚽
-
-<br>
-
-Laguages and Tools
----
+</div>
+<h2> Languages and Tools</h2>
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
