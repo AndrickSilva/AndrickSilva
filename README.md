@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I+am+Andrick+Silva....;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=4C8EDA&style=flat" alt="AndrickSilva" />
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=AndrickSilva&label=Profile%20views&color=a855f7&style=flat" alt="AndrickSilva" />
 </div>
 <h2> Languages and Tools</h2>
 <div>
@@ -26,16 +26,16 @@
 
 GitHub Stats
 ---
-![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrickSilva&show_icons=true&theme=github_dark)
+![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrickSilva&show_icons=true&theme=midnight-purple)
 
 Frequently Used Laguages
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva&layout=compact&theme=github_dark)](https://github.com/AndrickSilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva&layout=compact&theme=midnight-purple)](https://github.com/AndrickSilva/github-readme-stats)
 
 Badges
 ---
 [![@ajs's Holopin board](https://holopin.io/api/user/board?user=ajs)](https://holopin.io/@ajs)
 ---
   
-### ~nDrix
+### ~AJ
 
