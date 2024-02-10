@@ -28,7 +28,7 @@ GitHub Stats
 ---
 ![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrickSilva&show_icons=true&theme=midnight-purple)
 
-Frequently Used Laguages
+Frequently Used Languages
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrickSilva&layout=compact&theme=midnight-purple)](https://github.com/AndrickSilva/github-readme-stats)
 
@@ -38,9 +38,9 @@ Badges
 
 Certification Badges
 ---
-[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="51fcd369-022e-4506-9d67-e5fa65b47c11" data-share-badge-host="https://www.credly.com"></div>
-](https://www.credly.com/badges/51fcd369-022e-4506-9d67-e5fa65b47c11/public_url)https://www.credly.com/badges/51fcd369-022e-4506-9d67-e5fa65b47c11/public_url
+<img src="https://github.com/AndrickSilva/AndrickSilva/blob/main/aws-certified-cloud-practitioner.png" alt="aws-Certification" width="100" height="100"/>
+
 ---
   
-### ~AJ
+### ~AJ || ~Andrix
 
