@@ -42,5 +42,5 @@ Certification Badges
 
 ---
   
-### ~AJ || ~Andrix
+### ~AJ
 
